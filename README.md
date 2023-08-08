@@ -7,12 +7,12 @@
 
 This is the official implementation of the paper "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection". 
 
-Authors: Yichao Shen, Zigang Geng, Yuhui Yuan, Yutong Lin, Ze Liu, Chunyu Wang, Han Hu, Nanning Zheng, Baining Guo
+Authors: Yichao Shen*, Zigang Geng*, Yuhui Yuan*, Yutong Lin, Ze Liu, Chunyu Wang, Han Hu, Nanning Zheng, Baining Guo
 
 ## Model
 <div >
 
-<img src="./readme_files/framework.png" width="60%">
+<img src="./readme_files/framework.png" width="40%">
 
 </div>
 
@@ -30,12 +30,13 @@ Authors: Yichao Shen, Zigang Geng, Yuhui Yuan, Yutong Lin, Ze Liu, Chunyu Wang, 
 
 </div>
 
-### ScanNet
+### SUN RGB-D
 <div >
 
 <img src="./readme_files/sunrgbd.png" width="60%">
 
 </div>
+
 
 ## Citation
 If you find this code useful in your research, please consider citing:
