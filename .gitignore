@@ -1,0 +1,17 @@
+*.swp
+*.tmp
+*.o
+**/__pycache__/**
+*.pyx
+*.sh
+
+# generated files
+utils/box_intersection.c
+utils/*so
+utils/build/*
+
+third_party/*.txt
+
+
+*.ipynb
+# *.o

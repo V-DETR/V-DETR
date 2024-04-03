@@ -1,0 +1,78 @@
+====================                                                                                                                                                  
+Test model; Metrics mAP0.25, mAP0.50: 77.85, 65.91                                                                                                                    
+AR0.25, AR0.50: 95.62, 83.06                                                                                                                                          
+-----                                                                                                                                                                 
+IOU Thresh=0.25                                                                                                                                                       
+cabinet Average Precision: 64.27                                                                                                                                      
+bed Average Precision: 90.53                                                                                                                                          
+chair Average Precision: 96.20                                                                                                                                        
+sofa Average Precision: 91.48                                                                                                                                         
+table Average Precision: 80.58                                                                                                                                        
+door Average Precision: 68.34                                                                                                                                         
+window Average Precision: 71.32                                                                                                                                       
+bookshelf Average Precision: 68.86                                                                                                                                    
+picture Average Precision: 48.38                                                                                                                                      
+counter Average Precision: 79.11                                                                                                                                      
+desk Average Precision: 84.25                                                                                                                                         
+curtain Average Precision: 72.56                                                                                                                                      
+refrigerator Average Precision: 66.67
+showercurtrain Average Precision: 75.60
+toilet Average Precision: 100.00
+sink Average Precision: 83.07
+bathtub Average Precision: 92.12garbagebin Average Precision: 68.02                                                                                                                                   
+cabinet Recall: 96.24
+bed Recall: 96.30
+chair Recall: 98.98
+sofa Recall: 98.97
+table Recall: 98.29
+door Recall: 89.94
+window Recall: 96.10
+bookshelf Recall: 96.10
+picture Recall: 79.73
+counter Recall: 98.08
+desk Recall: 99.21
+curtain Recall: 95.52
+refrigerator Recall: 98.25
+showercurtrain Recall: 96.43
+toilet Recall: 100.00
+sink Recall: 90.82
+bathtub Recall: 96.77
+garbagebin Recall: 95.47
+-----
+IOU Thresh=0.5
+cabinet Average Precision: 47.13
+bed Average Precision: 87.47
+chair Average Precision: 91.70
+sofa Average Precision: 83.48
+table Average Precision: 75.51
+door Average Precision: 57.63
+window Average Precision: 45.08
+bookshelf Average Precision: 61.30
+picture Average Precision: 35.28
+counter Average Precision: 61.14
+desk Average Precision: 64.56
+curtain Average Precision: 57.60
+refrigerator Average Precision: 60.48
+showercurtrain Average Precision: 52.32
+toilet Average Precision: 96.37
+sink Average Precision: 62.73
+bathtub Average Precision: 84.49
+garbagebin Average Precision: 62.10
+cabinet Recall: 75.81
+bed Recall: 92.59
+chair Recall: 94.81
+sofa Recall: 95.88
+table Recall: 92.86
+door Recall: 73.66
+window Recall: 70.57
+bookshelf Recall: 83.12
+picture Recall: 54.95
+counter Recall: 75.00
+desk Recall: 88.19
+curtain Recall: 77.61
+refrigerator Recall: 91.23
+showercurtrain Recall: 85.71
+toilet Recall: 96.55
+sink Recall: 75.51
+bathtub Recall: 87.10
+garbagebin Recall: 83.96

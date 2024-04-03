@@ -1,0 +1,10 @@
+# ninja log v5
+420	28514	1702544525681511353	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/bindings.o	4902ec33dbfd4aed
+420	29595	1702544526737519077	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/group_points.o	265f47b304fa9b80
+419	30029	1702544527153522137	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/sampling.o	3dff1fc5b38388c3
+420	30193	1702544527377523791	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/ball_query.o	b20d8f5aee4779f
+419	30785	1702544527949528013	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/interpolate.o	c7dd80e1e0ecfe9c
+421	45826	1702544543345642422	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/group_points_gpu.o	174771bf639fcfb7
+421	46585	1702544544101648023	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/interpolate_gpu.o	907a7078cc048fb3
+421	47700	1702544545265656646	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/ball_query_gpu.o	489aa186e6766eb8
+421	48314	1702544545741660172	/home/syc/yichao_blob_2/code/3detr_rebuttal/third_party/pointnet2/build/temp.linux-x86_64-3.8/_ext_src/src/sampling_gpu.o	62856c8473d342d2

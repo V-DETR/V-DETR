@@ -1,0 +1,14 @@
+torch==1.12.1+cu113
+ninja==1.10.2.3
+numpy==1.19.5
+opencv-python-headless==4.6.0.66
+trimesh==2.35.39
+matplotlib==3.5.3
+pluggy==1.0.0
+plyfile==0.7.4
+scipy==1.5.1
+protobuf==4.25.2
+cython
+timm
+wandb
+
