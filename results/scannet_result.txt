@@ -19,7 +19,8 @@ refrigerator Average Precision: 66.67
 showercurtrain Average Precision: 75.60
 toilet Average Precision: 100.00
 sink Average Precision: 83.07
-bathtub Average Precision: 92.12garbagebin Average Precision: 68.02                                                                                                                                   
+bathtub Average Precision: 92.12
+garbagebin Average Precision: 68.02                                                                                                                                   
 cabinet Recall: 96.24
 bed Recall: 96.30
 chair Recall: 98.98
