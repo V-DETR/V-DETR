@@ -84,7 +84,7 @@ python main.py \
 --test_only --test_ckpt $ckpt_path \
 --auto_test
 ```
-please add `--auto_test`, which can auto load the arguments of the checkpoint, which will use to initial the model and others. 
+please add `--auto_test`, which can auto load the arguments of the checkpoint, and will use to initial the model and others. 
 
 | Dataset | mAP@0.25(no TTA) | mAP@0.5(no TTA) | details | ckpt |
 |:-------:|:--------:|:-------:|:-------:|:-------:|
