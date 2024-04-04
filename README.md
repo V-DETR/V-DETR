@@ -1,4 +1,4 @@
-# V-DETR
+# V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/v-detr-detr-with-vertex-relative-position/3d-object-detection-on-scannetv2)](https://paperswithcode.com/sota/3d-object-detection-on-scannetv2?p=v-detr-detr-with-vertex-relative-position)
 
